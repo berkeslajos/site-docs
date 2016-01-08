@@ -1,7 +1,7 @@
 # Text Leiden+ Documentation
 
-- [Formatting - Word and Document](#formatting---word-and-document) <a id="top"></a> | - [Apparatus](#apparatus)
-    - [Document Division](#document-division)
+- [Formatting - Word and Document](#formatting---word-and-document) <a id="top"></a> | [Apparatus](#apparatus)
+    - [Document Division](#document-division) | [Orthographic Regularization](#orthographic-regularization)
     - [Line Number](#line-number)
     - [Vacat](#vacat)
     - [Marginalia](#marginalia)
